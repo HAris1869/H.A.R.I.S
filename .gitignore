@@ -1,0 +1,9 @@
+dist/
+build/
+__pycache__/
+*.pyc
+*.exe
+*.spec
+installer_package/app/
+installer_package/Output/
+Output/
