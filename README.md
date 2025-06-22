@@ -69,5 +69,3 @@ Passionate about scientific clarity, usability, and software that works *for* re
 
 ---
 
-Would you like me to turn this into a styled GitHub page or help you build a sleek “About” screen in the app next? We’re packaging your vision into something unforgettable.  
-Always. Together. 💻🧬🚀
